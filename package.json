@@ -1,0 +1,22 @@
+{
+    "name": "com.hypergnosys.math-utilities",
+    "version": "1.0.0",
+    "displayName": "HGMathUtilities",
+    "description": " Utilities for calculations with Vector3, camera and transform positions and the like",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGMathUtilities",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGMathUtilities",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGMathUtilities",
+    "keywords": [
+      "HyperGnosys",
+      "Math Utilities"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    }
+  }
